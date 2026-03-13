@@ -3,6 +3,12 @@
     min-height: 100vh;
 }
 
+.main {
+   padding: 111px 40px 40px;
+   position: relative;
+    display: flex;
+}
+
 .main-info {
     max-width: 840px;
     width: 100%;
@@ -88,4 +94,5 @@
     max-width: 1024px;
     height: auto;
     display: block;
+
 }
